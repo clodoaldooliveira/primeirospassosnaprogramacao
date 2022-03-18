@@ -1,8 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Metal&family=Righteous&family=Sarala&display=swap');
+
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@1,600&display=swap");
+
 body {
-    font-family: 'Sarala', sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
     min-height: 854px;
-    background-image: url("https://static.vecteezy.com/ti/vetor-gratis/p2/4553562-ondas-da-cor-bandeira-do-brasil-on-white-background-vector-illustration-gr%C3%A1tis-vetor.jpg");
+    background: linear-gradient(270.85deg, #9932cc 25.26%, #8b008b 90.03%);
     background-color: #000000;
     background-size: cover;
     background-position: center top;
